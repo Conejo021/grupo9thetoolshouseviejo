@@ -8,9 +8,9 @@ Herramientas industriales y de oficio
 # Descripcion del target/publico:
 Se apunta a un publico tanto industrial como particular, se facilita el uso de la misma por medio de instructivos virtuales para su facil aplicacion  
 # Los integrantes del grupo son: 
-Julian Ginepro 
-Gustavo Coniglio
-Cinthia Herbsommer
+Julian Ginepro, 
+Gustavo Coniglio,
+Cinthia Herbsommer.
 
 
 
