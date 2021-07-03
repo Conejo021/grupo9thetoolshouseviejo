@@ -14,15 +14,20 @@ Cinthia Herbsommer.
 
 # Sitios de Referencia:
 
-*http://mecanicapuente.com/
+http://mecanicapuente.com/
+Este sitio fue elegido por su paleta de colores y por lo intuitivo en cuanto a la descripcion del trabajo solicitado
 
-*https://www.tiendadeastillas.com/
+https://www.tiendadeastillas.com/
+Fue elegido por la facilidad de entendimiento. Sus lineas simples y por poder ver el producto final en las imagenes 
 
-*https://alquilabahia.com.ar/
+https://alquilabahia.com.ar/
+Por la tematica referente a nuestro proyecto. 
 
-*https://veganessentials.com/
+https://veganessentials.com/
+Por el diseño y la distribucion de los productos familiriarizando al comprador con lo que consume dia a dia 
 
-*https://www.adidas.com.ar/
+https://www.adidas.com.ar/
+Por la funcionabilidad que tiene, por su variedad y por la confianza.
 
 
 
