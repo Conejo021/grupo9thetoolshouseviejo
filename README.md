@@ -29,7 +29,7 @@ Por el diseño y la distribucion de los productos familiriarizando al comprador 
 https://www.adidas.com.ar/
 Por la funcionabilidad que tiene, por su variedad y por la confianza.
 
-
+Enlace del tablero de trabajo: https://trello.com/grupon9proyectointegrador/home
 
 
 
