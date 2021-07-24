@@ -1,4 +1,4 @@
-# grupo_9_proyectointeg
+# grupo_9_the_tool-s_house
 Proyecto de la pagina de e-commerce
 
 # Descripcion de la oferta ofrecida:
