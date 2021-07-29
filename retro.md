@@ -1,7 +1,9 @@
 # 1. Comenzar a hacer:
 
  Realizar reuniones mas seguidas con el grupo con un tiempo de duracion 1 hs diaria.
+ 
  Mayor comunicacion entre los integrantes sobre el avance del proyecto.
+ 
  mayor intercambio de ideas sobre la pagina a realizar.
  testear pruebas para empezar a codear.
  usar el tablero de trabajo
